@@ -1,3 +1,4 @@
+.idea
 # ignore bin and build dirs
 **/bin/
 **/build/

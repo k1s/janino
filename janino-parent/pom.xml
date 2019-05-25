@@ -7,17 +7,6 @@
 >
   <modelVersion>4.0.0</modelVersion>
 
-  <!--
-    Set the following in "Run/Run Configurations.../Maven build/Main/Parameter name":
-        jdk16 = C:\Program Files\Java\jdk1.6.0_43   (or wherever a JDK 1.6 is installed)
-  -->
-
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.executable>C:\Program Files\Java\jdk1.6.0_43\bin\javac.exe</maven.compiler.executable>
-    <JAVA_HOME>C:\Program Files\Java\jdk1.6.0_43</JAVA_HOME>
-  </properties>
-
   <artifactId>janino-parent</artifactId>
 
   <name>janino-parent</name>
